@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9024dfb1-3fa4-475c-aefd-ad406632d138/resourceGroups/learnigapp_group/providers/Microsoft.Web/sites/learnigapp",
+    "appService.deploySubpath": "bin\\Publish"
+}
